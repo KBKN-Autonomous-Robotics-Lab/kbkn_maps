@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <node pkg="template" exec="cpp_template" output="screen" />
+  <node pkg="template" exec="py_template.py" output="screen" />
+</launch>
