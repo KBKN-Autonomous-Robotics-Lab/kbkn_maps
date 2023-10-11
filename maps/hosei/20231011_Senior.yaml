@@ -1,4 +1,4 @@
-image: ./mymap_nakaniwa.pgm
+image: ./20231011_Senior.pgm
 resolution: 0.050000
 origin: [-60.000000, -60.000000, 0.000000]
 negate: 0
