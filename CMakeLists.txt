@@ -9,6 +9,7 @@ elseif($ENV{ROS_VERSION} EQUAL "2")
 
   install(DIRECTORY
     maps
+    waypoints
     DESTINATION share/${PROJECT_NAME})
 
   ament_package()
