@@ -11,20 +11,20 @@ waypoints:
 - point: {x: 64.910184, y: -11.818898, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 68.877183, y: -12.590259, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 72.596244, y: -13.003488, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: 76.590792, y: -12.893293, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
+- point: {x: 76.590792, y: -12.893293, z: 0.0, vel: 1.0, rad: 0.8, stop: false, tandem_start: 1}
 - point: {x: 80.35213, y: -12.830639, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 81.384249, y: -14.050335, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 83.092262, y: -15.427765, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: 85.375453, y: -15.573047, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
+- point: {x: 85.375453, y: -15.573047, z: 0.0, vel: 1.0, rad: 0.8, stop: false, tandem_end: 1}
 - point: {x: 87.948912, y: -15.646575, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 90.475288, y: -16.639903, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 93.450537, y: -16.998035, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 96.921661, y: -17.631653, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 100.375045, y: -19.617055, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: 102.948505, y: -19.102363, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
+- point: {x: 102.948505, y: -19.102363, z: 0.0, vel: 1.0, rad: 0.8, stop: false, tandem_start: 2}
 - point: {x: 105.076101, y: -18.22123, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 107.367264, y: -16.761175, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: 110.350672, y: -16.292848, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
+- point: {x: 110.350672, y: -16.292848, z: 0.0, vel: 1.0, rad: 0.8, stop: false, tandem_end: 2}
 - point: {x: 113.796018, y: -17.659821, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 114.18043, y: -24.026653, z: 0.0, vel: 1.0, rad: 1.5, stop: false}
 - point: {x: 114.746465, y: -31.45136, z: 0.0, vel: 1.0, rad: 1.5, stop: false}
@@ -46,7 +46,7 @@ waypoints:
 - point: {x: 76.616318, y: -88.087274, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 72.632031, y: -88.347119, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 68.777666, y: -88.390426, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: 66.23661, y: -88.305365, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
+- point: {x: 66.23661, y: -88.305365, z: 0.0, vel: 1.0, rad: 0.8, stop: false, tandem_start: 3}
 - point: {x: 63.857635, y: -88.214003, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 61.631433, y: -88.274038, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 59.093886, y: -88.555987, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
@@ -60,7 +60,7 @@ waypoints:
 - point: {x: 37.217253, y: -90.258079, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 34.229757, y: -90.482703, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 33.060534, y: -92.847888, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: 30.366349, y: -94.100997, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
+- point: {x: 30.366349, y: -94.100997, z: 0.0, vel: 1.0, rad: 0.8, stop: false, tandem_end: 3}
 - point: {x: 26.293743, y: -94.351619, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 22.346447, y: -94.664897, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 18.406542, y: -94.526527, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
@@ -78,10 +78,10 @@ waypoints:
 - point: {x: 6.809018, y: -33.868066, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 3.148287, y: -28.898688, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -2.730931, y: -28.585594, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: -7.116524, y: -28.652301, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
+- point: {x: -7.116524, y: -28.652301, z: 0.0, vel: 1.0, rad: 0.8, stop: false, tandem_start: 4}
 - point: {x: -12.738496, y: -29.080464, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -17.280751, y: -29.341085, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: -22.895943, y: -29.85585, z: 0.0, vel: 1.0, rad: 0.8, stop: true}
+- point: {x: -22.895943, y: -29.85585, z: 0.0, vel: 1.0, rad: 0.8, stop: true, tandem_end: 4}
 - point: {x: -34.374714, y: -35.791904, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -38.994835, y: -38.941986, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -44.717484, y: -39.414498, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
@@ -108,12 +108,12 @@ waypoints:
 - point: {x: -233.029417, y: -26.640635, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -233.965797, y: -21.434879, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -234.645351, y: -16.397372, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: -235.570918, y: -10.826006, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
+- point: {x: -235.570918, y: -10.826006, z: 0.0, vel: 1.0, rad: 0.8, stop: false, tandem_start: 5}
 - point: {x: -236.292912, y: -5.764931, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -237.290514, y: -0.969408, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -238.114415, y: 4.015843, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -239.177815, y: 11.026948, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: -239.843752, y: 18.219665, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
+- point: {x: -239.843752, y: 18.219665, z: 0.0, vel: 1.0, rad: 0.5, stop: true, tandem_end: 5}
 - point: {x: -240.883332, y: 24.934684, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
 - point: {x: -242.467281, y: 36.769105, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -242.655631, y: 39.366929, z: 0.0, vel: 1.0, rad: 0.5, stop: false}
