@@ -24,7 +24,7 @@ waypoints:
 - point: {x: 175.020057, y: -53.579229, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 175.437447, y: -58.614835, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 175.929455, y: -65.689038, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
-- point: {x: 176.393144, y: -72.684953, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
+- point: {x: 176.067279, y: -72.757681, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
 - point: {x: 176.752663, y: -80.893971, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
 - point: {x: 177.503343, y: -91.206663, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: 177.310841, y: -99.996086, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
@@ -32,4 +32,4 @@ finish_pose:
   header: {seq: 0, stamp: 1663209268.6905353, frame_id: map}
   pose:
     position: {x: 179.454312, y: -98.267942, z: 0}
-    orientation: {x: 0.0, y: 0.0, z: 0.015300746884531079, w: 0.999882936720482}
+    orientation: {x: 0.0, y: 0.0, z: 0.01530074688453108, w: 0.999882936720482}
