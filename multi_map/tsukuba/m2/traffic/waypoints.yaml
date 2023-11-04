@@ -118,9 +118,9 @@ waypoints:
 - point: {x: -242.467281, y: 36.769105, z: 0.0, vel: 1.0, rad: 0.8, stop: false}
 - point: {x: -242.655631, y: 39.366929, z: 0.0, vel: 1.0, rad: 0.5, stop: false}
 - point: {x: -243.204298, y: 44.276052, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
-- point: {x: -245.132739, y: 46.135811, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
+- point: {x: -246.772719, y: 46.125064, z: 0.0, vel: 1.0, rad: 0.5, stop: true}
 finish_pose:
   header: {seq: 0, stamp: 1663209268.6905353, frame_id: map}
   pose:
-    position: {x: -250.797884, y: 45.818296, z: 0}
-    orientation: {x: 0.0, y: 0.0, z: -0.9998322592591647, w: 0.01831538546453069}
+    position: {x: -258.01034, y: 44.872396, z: 0}
+    orientation: {x: 0.0, y: 0.0, z: -0.998758526924799, w: 0.04981370188015974}
