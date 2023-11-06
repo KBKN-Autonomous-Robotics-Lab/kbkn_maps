@@ -1,26 +1,32 @@
 waypoints:
-- point: {x: 3.86151, y: 0.0247212, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 11.4276, y: 1.09281, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 20.4879, y: 3.95685, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 28.1631, y: 9.77979, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 37.6614, y: 16.4418, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 44.5553, y: 22.4995, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 50.8245, y: 28.4427, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 56.9353, y: 34.2241, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 64.1808, y: 40.8567, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 70.1644, y: 46.7707, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 76.6708, y: 53.4313, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 89.6262, y: 61.602, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 94.5318, y: 64.3513, z: 0, vel: 1, rad: 0.3, stop: true}
-- point: {x: 99.2824, y: 68.359, z: 0, vel: 1, rad: 0.3, stop: true}
-- point: {x: 110.111, y: 76.3006, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 113.53, y: 73.5648, z: 0, vel: 1, rad: 0.3, stop: true}
-- point: {x: 116.157, y: 71.9456, z: 0, vel: 1, rad: 0.3, stop: true}
-- point: {x: 122.374, y: 59.6459, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 124.996, y: 52.3467, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 126.818, y: 48.6433, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 5.96488, y: -0.36293, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 15.0371, y: -1.11216, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 24.2244, y: -1.68836, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 31.6615, y: -3.24025, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 43.1357, y: -4.10277, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 52.286, y: -4.79413, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 62.2094, y: -5.58132, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 71.5017, y: -6.6034, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 81.5958, y: -7.59576, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 91.2598, y: -8.74448, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 100.068, y: -9.93312, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 109.458, y: -11.1767, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 119.237, y: -12.2388, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 128.606, y: -13.6039, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 138.939, y: -15.1227, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 147.779, y: -16.6232, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 157.289, y: -18.2067, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 167.161, y: -19.7213, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 177.337, y: -21.4258, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 186.901, y: -23.0547, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 195.987, y: -24.6599, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 204.451, y: -26.2804, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 203.873, y: -31.9986, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 201.416, y: -44.5977, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 199.813, y: -53.7746, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 199.117, y: -58.9154, z: 0, vel: 1, rad: 1, stop: false}
 finish_pose:
-  header: {seq: 1698980934, stamp: 646067817, frame_id: map}
-  pose:
-    position: {x: 128.527, y: 46.223, z: 0}
-    orientation: {x: 0.0, y: 0.0, z: -0.5563880676489147, w: 0.8309225705069677}
+  header: {seq: 1698980416, stamp: 155888229, frame_id: map}
+  pose: 
+    position: {x: 206.111, y: -68.322, z: 0}
+    orientation: {x: 0, y: 0, z: -0.467659, w: 0.883909}
