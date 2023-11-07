@@ -23,16 +23,16 @@ waypoints:
 - point: {x: 110.7901, y: -11.818556, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 114.849314, y: -11.294786, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 116.551564, y: -16.794366, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 118.384758, y: -21.115464, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 120.217951, y: -26.615043, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 122.574913, y: -33.293104, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 125.455646, y: -41.280589, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 128.074493, y: -48.220534, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 130.69334, y: -55.16048, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 133.181245, y: -61.969483, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 135.66915, y: -69.56414, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 137.895171, y: -75.980316, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 137.895171, y: -81.218011, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 117.996687, y: -21.807371, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 119.663777, y: -27.642187, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 121.861305, y: -34.840986, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 124.361941, y: -42.494446, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 126.711023, y: -49.769022, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 129.060104, y: -56.28583, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 131.712294, y: -63.029968, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 134.364483, y: -70.607652, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 136.258904, y: -76.669798, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 137.168226, y: -81.216408, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 132.788418, y: -83.836858, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 128.729205, y: -86.193821, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 124.277164, y: -85.539109, z: 0, vel: 1, rad: 1, stop: false}
@@ -45,14 +45,14 @@ waypoints:
 - point: {x: 97.564921, y: -96.276383, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 93.767592, y: -98.109577, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 89.708379, y: -100.073712, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 84.077857, y: -101.252193, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 84.503326, y: -101.979261, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 81.328067, y: -103.609156, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 78.185451, y: -104.263868, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 75.566603, y: -106.751773, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 72.031159, y: -107.537427, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 78.592733, y: -105.161888, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 75.637437, y: -106.753201, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 72.530587, y: -108.268738, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 69.543254, y: -109.89439, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 65.745926, y: -110.680044, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: 63.127078, y: -113.298891, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 66.165333, y: -111.527142, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 62.982706, y: -113.270009, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 58.675038, y: -114.8702, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 60.115404, y: -119.060355, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: 55.401478, y: -121.54826, z: 0, vel: 1, rad: 1, stop: false}
@@ -77,9 +77,7 @@ waypoints:
 - point: {x: -19.759441, y: -91.300573, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: -21.854519, y: -95.490729, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: -24.866193, y: -102.430675, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: -29.187291, y: -106.097061, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: -35.603467, y: -110.941929, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: -40.579277, y: -115.132084, z: 0, vel: 1, rad: 1, stop: false}
 finish_pose:
   header: {seq: 1698980548, stamp: 321362437, frame_id: map}
   pose:
