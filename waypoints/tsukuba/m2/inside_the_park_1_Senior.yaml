@@ -1,0 +1,31 @@
+waypoints:
+- point: {x: 5.327822, y: 0.355746, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 7.659843, y: 5.249707, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 10.153355, y: 7.617312, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 12.972583, y: 9.72489, z: 0.0, vel: 1, rad: 1, stop: false}
+- point: {x: 16.393976, y: 11.750355, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 19.623771, y: 13.584221, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 23.42836, y: 12.899943, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 26.138104, y: 15.47283, z: 0.0, vel: 1, rad: 1, stop: false}
+- point: {x: 28.054084, y: 18.264687, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 31.448106, y: 20.208039, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 35.006355, y: 22.069277, z: 0.0, vel: 1, rad: 1, stop: false}
+- point: {x: 39.029914, y: 24.094741, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 42.779761, y: 26.174949, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 46.255896, y: 28.063558, z: 0.0, vel: 1, rad: 1, stop: false}
+- point: {x: 49.814145, y: 28.392011, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 52.688116, y: 25.791752, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 55.261003, y: 22.86304, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 55.644199, y: 18.976337, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 55.521029, y: 15.075949, z: 0.0, vel: 1, rad: 1, stop: false}
+- point: {x: 54.494611, y: 11.476643, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 53.4161, y: 7.51021, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 53.399765, y: 3.621124, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 53.38608, y: -0.279264, z: 0.0, vel: 1, rad: 1, stop: false}
+- point: {x: 53.317652, y: -3.851199, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: 52.852342, y: -7.792644, z: 0, vel: 1, rad: 1, stop: false}
+finish_pose:
+  header: {seq: 1699079804, stamp: 207921219, frame_id: map}
+  pose:
+    position: {x: 53.3784, y: -10.7846, z: 0}
+    orientation: {x: 0.0, y: 0.0, z: -0.790562001011034, w: 0.6123820070490559}
