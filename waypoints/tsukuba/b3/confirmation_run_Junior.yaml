@@ -73,7 +73,7 @@ waypoints:
 - point: {x: -3.65353, y: -75.980316, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: -9.153109, y: -79.51576, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: -14.128919, y: -82.396492, z: 0, vel: 1, rad: 1, stop: false}
-- point: {x: -17.664363, y: -85.931936, z: 0, vel: 1, rad: 1, stop: false}
+- point: {x: -17.664363, y: -85.931936, z: 0, vel: 1, rad: 1, stop: true}
 - point: {x: -19.759441, y: -91.300573, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: -21.854519, y: -95.490729, z: 0, vel: 1, rad: 1, stop: false}
 - point: {x: -24.866193, y: -102.430675, z: 0, vel: 1, rad: 1, stop: false}
