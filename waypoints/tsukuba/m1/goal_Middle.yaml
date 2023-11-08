@@ -60,3 +60,4 @@ finish_pose:
   pose:
     position: {x: 180.816, y: 124.3, z: 0}
     orientation: {x: 0.0, y: 0.0, z: 0.9749242329362375, w: 0.22253705317022807}
+    
