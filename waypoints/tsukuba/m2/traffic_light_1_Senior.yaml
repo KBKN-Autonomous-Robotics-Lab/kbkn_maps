@@ -34,4 +34,4 @@ finish_pose:
   header: {seq: 0, stamp: 1663209268.6905353, frame_id: map}
   pose:
     position: {x: 179.454312, y: -98.267942, z: 0}
-    orientation: {x: 0.0, y: 0.0, z: 0.015300746884531084, w: 0.999882936720482}
+    orientation: {x: 0.0, y: 0.0, z: 0.015300746884531083, w: 0.999882936720482}
