@@ -1,4 +1,4 @@
-image: confirmation_run_Middle.pgm
+image: ./confirmation_run_Middle.pgm
 resolution: 0.100000
 origin: [-117.200000, -162.000000, 0.000000]
 negate: 0
