@@ -1,6 +1,0 @@
-waypoints:
-finish_pose:
-  header: {seq: 1730001031, stamp: 598815285, frame_id: map}
-  pose: 
-    position: {x: 118.57, y: 17.206, z: 0}
-    orientation: {x: 0, y: 0, z: -0.802143, w: 0.597133}
