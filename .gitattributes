@@ -1,5 +1,9 @@
 multi_map/tsukuba/m2/From_start_to_goal/merged_map.pgm filter=lfs diff=lfs merge=lfs -text
-multi_map/tsukuba/2024/main/merged_map.pgm filter=lfs diff=lfs merge=lfs -text
-multi_map/tsukuba/2024/main/map0.pgm filter=lfs diff=lfs merge=lfs -text
-multi_map/tsukuba/2024/main/map4.pgm filter=lfs diff=lfs merge=lfs -text
-multi_map/tsukuba/2024/main/map5.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/main_from_left/merged_map.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/main_from_left/map0.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/main_from_left/map4.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/main_from_left/map5.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/main_from_right/merged_map.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/main_from_right/map0.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/main_from_right/map4.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/main_from_right/map5.pgm filter=lfs diff=lfs merge=lfs -text
