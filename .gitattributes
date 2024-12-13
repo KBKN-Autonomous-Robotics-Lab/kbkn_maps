@@ -7,3 +7,7 @@ multi_map/tsukuba/2024/main_from_right/merged_map.pgm filter=lfs diff=lfs merge=
 multi_map/tsukuba/2024/main_from_right/map0.pgm filter=lfs diff=lfs merge=lfs -text
 multi_map/tsukuba/2024/main_from_right/map4.pgm filter=lfs diff=lfs merge=lfs -text
 multi_map/tsukuba/2024/main_from_right/map5.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/kasai_right/merged_map.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/kasai_right/map0.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/kasai_right/map4.pgm filter=lfs diff=lfs merge=lfs -text
+multi_map/tsukuba/2024/kasai_right/map5.pgm filter=lfs diff=lfs merge=lfs -text
